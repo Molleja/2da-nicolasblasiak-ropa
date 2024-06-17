@@ -97,3 +97,13 @@ header{
     justify-content: space-around;
     align-items: center;    
 }
+
+form {
+        display: flex;
+        justify-content: center;
+}
+
+.cometarios {
+    height: 100px;
+    width: 300px;
+}
